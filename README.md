@@ -28,10 +28,8 @@ A passionate Computer Science & Engineering student at East West University with
 
 <b>My GitHub Stats</b>
 
-<p>
 ![ZakariaBinMoti's Stats](https://github-readme-stats.vercel.app/api?username=ZakariaBinMoti&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![ZakariaBinMoti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBinMoti&theme=dark&hide_border=false)
 
-</p>
 ![ZakariaBinMoti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaBinMoti&theme=dark&show_icons=true&hide_border=false&layout=compact)
