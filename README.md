@@ -1,85 +1,88 @@
 <img src="banner.png" alt="Zakaria Banner" />
 
-<h1 align="center">Hi 👋, I'm Zakaria Bin Moti</h1>
-<h3 align="center">Software Engineer • Shopify Developer • Frontend Specialist</h3>
+<h1 align="center">Zakaria Bin Moti</h1>
+<h3 align="center">Software Engineer • Shopify Expert • eCommerce Growth Engineer</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ZakariaBinMoti">
+    <img src="https://komarev.com/ghpvc/?username=ZakariaBinMoti&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Positioning
 
-I am a **Software Engineer specializing in Shopify development, modern frontend systems, and high-converting eCommerce experiences.**
+I don’t just build websites.
 
-My journey started with frontend engineering and evolved into building **production-ready digital systems for international clients**.
+I engineer **high-converting Shopify experiences** that directly impact revenue.
 
-I focus on:
-- ⚡ Performance & scalability
-- 🛒 Conversion-driven UI/UX
-- 🧩 Shopify architecture & customization
-- 🎯 Business-focused development
-
-Currently, I am:
-- 💼 Working as a **Frontend Developer (Shopify)**  
-- 🌍 Delivering solutions for **global clients**
-- 🧠 Solving advanced frontend & eCommerce problems
+With a strong foundation in frontend systems and real-world client delivery, I specialize in building **fast, scalable, and conversion-focused eCommerce stores** for international brands.
 
 ---
 
-## 🌐 Portfolio & Contact
+## 💼 What I Actually Do
 
-- 🖥️ Portfolio: https://zakariabinmoti.github.io/Portfolio/
-- 📧 Email: zakaria.binmoti@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/zakariabinmoti/
-- 🧑‍💻 GitHub: https://github.com/ZakariaBinMoti
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-HTML • CSS • JavaScript • React • Next.js  
-TailwindCSS • Bootstrap • Redux
-
-### ⚙️ Backend
-Node.js • Express.js  
-
-### 🛢️ Database
-MongoDB • MySQL • Oracle SQL
-
-### 🛒 eCommerce
-Shopify (Liquid • Theme Development • Custom Features)
-
-### ☁️ Tools & Platforms
-Git • GitHub • Firebase • Vercel • Figma • Postman
+* 🛒 Build & scale Shopify stores (end-to-end)
+* 🎯 Optimize UX for **conversion & revenue growth**
+* ⚡ Fix performance bottlenecks (Core Web Vitals)
+* 🧩 Develop custom features beyond theme limitations
+* 🔄 Integrate apps, APIs, and complex business logic
 
 ---
 
-## 🏆 Featured Work
+## 🌍 Real-World Impact
 
-🔹 Shopify Stores (Production Projects)  
-- https://flikens.se/  
-- https://goodz24.com/  
-- https://bellura.de/  
-- https://soundofora.com/  
-- https://unicase.ca/  
+Worked with **global clients** delivering production-ready Shopify solutions.
 
-🔹 Custom Projects  
-- 🧠 Bangla Speech-to-Text (Deep Learning आधारित)  
-- 🏢 Building Management System (MERN)  
-- 📚 Library Management System (MERN)  
+### Selected Stores:
 
----
+* https://flikens.se/
+* https://goodz24.com/
+* https://bellura.de/
+* https://soundofora.com/
+* https://unicase.ca/
+* https://fashionbox.nl/
 
-## ⚡ What I Do Best
-
-- 🛍️ Shopify Store Development (End-to-End)
-- 🎨 Pixel Perfect UI from Figma/PSD
-- ⚡ Performance Optimization & Speed Fixing
-- 🔄 Custom Features & App Integrations
-- 📈 Conversion Rate Optimization (CRO)
+> ⚡ These are not demo projects — these are live businesses generating revenue.
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
+
+### Frontend Engineering
+
+`HTML` `CSS` `JavaScript` `React` `Next.js`
+`TailwindCSS` `Redux`
+
+### Backend & Systems
+
+`Node.js` `Express.js`
+
+### Databases
+
+`MongoDB` `MySQL`
+
+### eCommerce Core
+
+`Shopify` `Liquid` `Theme Customization` `CRO`
+
+### Tools
+
+`Git` `GitHub` `Figma` `Postman` `Firebase` `Vercel`
+
+---
+
+## 🧩 Engineering Philosophy
+
+* Build for **business goals**, not just visuals
+* Optimize for **speed = conversion**
+* Write **clean, scalable, maintainable code**
+* Think like a **developer + marketer**
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZakariaBinMoti&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,22 +95,34 @@ Git • GitHub • Firebase • Vercel • Figma • Postman
 
 ---
 
-## 📈 Current Focus
+## 🚀 Current Focus
 
-- 🛒 Advanced Shopify Architecture
-- ⚡ Headless Commerce
-- 🧠 Scalable Frontend Systems
-- 💰 Conversion Optimization Strategies
+* Headless Shopify (Next.js + Storefront API)
+* Advanced CRO strategies
+* Performance engineering (sub-2s load time targets)
+* Scalable frontend architecture
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Work With Me
 
 I’m open to:
-- Shopify Development Projects
-- Frontend Engineering Work
-- Freelance / Contract Opportunities
+
+* High-quality Shopify projects
+* Long-term frontend roles
+* Freelance / contract opportunities
+
+📩 **Email:** [zakaria.binmoti@gmail.com](mailto:zakaria.binmoti@gmail.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/zakariabinmoti/
 
 ---
 
-⭐ *“I build not just websites, but revenue-generating digital experiences.”*
+## ⚡ Authority Statement
+
+> I build Shopify stores that don’t just look good — they sell.
+
+---
+
+<p align="center">
+  <i>Turning code into conversion. Turning stores into revenue.</i>
+</p>
