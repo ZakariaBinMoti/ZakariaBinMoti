@@ -111,7 +111,7 @@ Shopify • Liquid • Theme Customization • CRO
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZakariaBinMoti/ZakariaBinMoti/output/github-contribution-grid-snake.svg" />
+  <img src="https://zakariabinmoti.github.io/ZakariaBinMoti/github-contribution-grid-snake.svg" />
 </p>
 
 ---
