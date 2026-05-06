@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write   # 🔥 THIS LINE FIXES YOUR ERROR
 
 jobs:
   build:
@@ -22,10 +24,10 @@ jobs:
           github_user_name: ZakariaBinMoti
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
-      - name: Deploy GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
